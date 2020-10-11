@@ -29,7 +29,7 @@ SEARCH_ENDPOINT="https://www.googleapis.com/youtube/v3/search"
 
 Click on the image bellow to see YouTube video.
 
-[![Laravel 7 Blog CMS](https://img.youtube.com/vi/wy-sWNXEgg8/0.jpg)](https://www.youtube.com/watch?v=wy-sWNXEgg8) 
+[![Complele Laravel YouTube](https://img.youtube.com/vi/wy-sWNXEgg8/0.jpg)](https://www.youtube.com/watch?v=wy-sWNXEgg8) 
 
 Please visit my website.
 [samironbarai.com](https://samironbarai.com)
